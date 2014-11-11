@@ -1,0 +1,18 @@
+Wersja 1 z dn. 10.11.2014 obejmuje:
+* Okno logowania:
+** łagodniejsze kolory (włączona przezroczystość)
+** usunięty denerwujący slider z reklamami pod oknem logowania
+* Okno główne po zalogowaniu na konto:
+** mniejsze przyciski kategorii (na górze ekranu),
+** usunięty awatar,
+** usunięty duży box z prawej strony wiadomosciami i reklamami + rozszerzona lista ostatnich operacji i lista rachunków
+** usunięty kolorowy pasek stanu finansów z przyciskiem do oferty kredytowej
+* Przelewy:
+** mniejsze przyciski (bez ikon)
+** usunięty osadzony wykres z analizą finansów w szczegółach przelewu
+** rozszerzone pole 'tytuł' w szczegółach przelewu
+* Historia
+** Rozjaśnione przyciski w analizie historii
+** Rozjaśnione zaznaczenie pól typu checkbox i radio (np, przy wyborze aktywnego rachunku bądź kategorii analizy)
+
+Cdn. (w ramach wolnego czasu)

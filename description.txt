@@ -1,0 +1,1 @@
+Próba uspokojenia wyglądu nowego serwisu transakcyjnego mbanku. Chowamy reklamy, żeby łatwiej było znaleźć informacje o swoich finansach.
