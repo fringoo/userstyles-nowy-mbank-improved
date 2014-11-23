@@ -1,4 +1,8 @@
-Wersja 1 z dn. 10.11.2014 obejmuje:
+v.2 / 23.11.2014
+* poprawione okno logowania mtransfer (ukryte reklamy, bez rozjasniania okna)
+* schowanie reklamy pojawiajacej sie obok historii rachunku
+
+v.1 / 10.11.2014:
 * Okno logowania:
 ** łagodniejsze kolory (włączona przezroczystość)
 ** usunięty denerwujący slider z reklamami pod oknem logowania
@@ -15,4 +19,5 @@ Wersja 1 z dn. 10.11.2014 obejmuje:
 ** Rozjaśnione przyciski w analizie historii
 ** Rozjaśnione zaznaczenie pól typu checkbox i radio (np, przy wyborze aktywnego rachunku bądź kategorii analizy)
 
-Cdn. (w ramach wolnego czasu)
+Cdn. (w ramach wolnego czasu).
+Wykryte bledy mozna zglaszac na Githubie: https://github.com/fringoo/userstyles-nowy-mbank-improved/issues
