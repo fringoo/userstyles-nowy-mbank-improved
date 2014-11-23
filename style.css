@@ -213,8 +213,15 @@
       background: rgba(141,193,00,0.5) !important;
     }
 
+    /* light green, no gradient for checkboxes */
     .checkbox-area.checked, .radio-area.checked {
      background: rgba(62,121,0,0.5) !important;
+    }
+
+    /* light green, no gradient for borders around search boxes (in filters area)
+    and 'search' button */
+    div#search-input-and-filters div#search-container,  div#search-input-and-filters div.submit-container{
+      background: rgba(62,121,0,0.5) !important;
     }
 
   }
