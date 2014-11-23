@@ -69,6 +69,11 @@
       max-width: 100% !important;
     }
 
+    /* history (and possibly other places): remove advertisments */
+    div.rtm-commercial {
+      display: none !important;
+    }
+
     /* transfer buttons - smaller, no icons */
     .transfers-types-list .transfer-type-row > a {
       height: 26px !important;
@@ -97,8 +102,6 @@
       border: 1px solid #B90E2E !important;
       box-shadow: 1px 1px 1px 0px #5D5D5D !important;
     }
-
-
 
     /* account details - hide payment card image */
     .card-row > div.content > img {
