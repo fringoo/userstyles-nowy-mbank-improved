@@ -74,20 +74,20 @@
       display: none !important;
     }
 
-    /* transfer buttons - smaller, no icons */
-    .transfers-types-list .transfer-type-row > a {
+    /* transfer buttons - "top menu" over transfers list - smaller, no icons */
+    .transfer-menu-view .transfers-types-list .transfer-type-row > a {
       height: 26px !important;
       padding: 0 !important;
       text-align: center !important;
       width: 182px !important;
     }
 
-    .transfers-types-list .transfer-type-row > a > .gfx {
+    .transfer-menu-view .transfers-types-list .transfer-type-row > a > .gfx {
       display: none !important;
     }
 
     /* transfer buttons / recurring - smaller, no icons */
-    .transfers-types-list .transfer-type-row > a > span {
+    .transfer-menu-view .transfers-types-list .transfer-type-row > a > span {
       height: 26px !important;
       padding: 0 !important;
       text-align: center !important;
