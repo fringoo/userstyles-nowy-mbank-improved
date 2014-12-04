@@ -70,7 +70,7 @@
     }
 
     /* history (and possibly other places): remove advertisments */
-    div.rtm-commercial {
+    .sidebar-left div.rtm-commercial {
       display: none !important;
     }
 
