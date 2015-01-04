@@ -1,1 +1,5 @@
 Próba uspokojenia wyglądu nowego serwisu transakcyjnego mbanku. Chowamy reklamy, żeby łatwiej było znaleźć informacje o swoich finansach.
+
+Usability improvements for the new mBank online internet banking site. The goal is to put more focus to user's data by cleaning the site from unnecessary advertisements, banners etc.
+
+Projekt jest dostępny na githubie / Available on Github: https://github.com/fringoo/userstyles-nowy-mbank-improved

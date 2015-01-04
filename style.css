@@ -224,4 +224,19 @@
       background: rgba(62,121,0,0.5) !important;
     }
 
+    /* hide insurance proposals (below list of active insurances) */
+    section.insurances div.proposal-view, section.insurances div.proposal-slider-view {
+      display: none;
+    }
+
+    /* hide 'new card' sections (visible if a customer doesn't have any card of a particular type */
+    #CardsList .cards section.new-card {
+      display: none;
+    }
+
+    /* hide 'navigate to market' links displayed amongst user's accounts and investments summary if they don't have any savings account */
+    ul.pfm-list-group li.infoBar.navigate-to-market {
+      display: none;
+    }
+
   }
