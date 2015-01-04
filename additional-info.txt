@@ -1,3 +1,9 @@
+v.3 / 04.01.2015
+* Ukrycie ofert (reklam) wyswietlanych w dziale 'Moje finanse':
+** 'Podsumowanie': ukrycie ofert dot. otwarcia lokat (linku do marketu)
+** 'Ubezpieczenia': ukrycie ofert ubezpieczeniowych wyswietlanych pod lista zawartych ubezpieczen
+** 'Karty': ukrycie ofert dot. otwarcia nowych kart (linku do marketu)
+
 v.2.1 / 04.12.2014
 * poprawki bledow:
 ** okienko wiadomosci na glownym ekranie nie bylo wyswietlane po nacisnieciu przycisku 'Wiadomosci'
