@@ -1,7 +1,7 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
 /* Login / logout box - mbank online & mtransfer */
-@-moz-document regexp("https://online\\.mbank\\.pl/[a-z]+/Login"), regexp("http://www\\.mbank\\.pl/logoutpage\\.html\\?*.*"), regexp("https://online\\.mbank\\.pl/[a-z]+/mTransfer\\?*.*") {
+@-moz-document regexp("https://online\\.mbank\\.pl/[a-z]+/Login"), regexp("http[s]*://www\\.mbank\\.pl/logoutpage\\.html\\?*.*"), regexp("https://online\\.mbank\\.pl/[a-z]+/mTransfer\\?*.*") {
 
   /* Remove ads (below the login box) */
   #advertise-slider, div.adv-container {
@@ -11,6 +11,12 @@
   div.footer-container div.security {
     border: dotted 2px red !important;
   }
+
+  /* remove ads from logout page */
+  div#single-col>section.multitile-block {
+     display: none !important;
+  }
+}
 
 }
 
