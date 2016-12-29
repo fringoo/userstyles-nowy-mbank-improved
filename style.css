@@ -8,6 +8,10 @@
     display: none !important;
   }
 
+  div.footer-container div.security {
+    border: dotted 2px red !important;
+  }
+
 }
 
 /* mbank online */
