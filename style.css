@@ -3,8 +3,8 @@
 /* Login / logout box - mbank online & mtransfer */
 @-moz-document regexp("https://online\\.mbank\\.pl/[a-z]+/Login"), regexp("http://www\\.mbank\\.pl/logoutpage\\.html\\?*.*"), regexp("https://online\\.mbank\\.pl/[a-z]+/mTransfer\\?*.*") {
 
-  /* Remove ads carousel (below the login box) */
-  #advertise-slider {
+  /* Remove ads (below the login box) */
+  #advertise-slider, div.adv-container {
     display: none !important;
   }
 
